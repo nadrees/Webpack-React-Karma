@@ -14,6 +14,10 @@ var config = {
             {test: /(\.jsx|\.js)/, include: APP_DIR, loader: 'babel'},
             {test: /\.json/, loader: 'json'}
         ]
+    },
+    externals: {
+        'react': 'React',
+        'react-dom': 'ReactDOM'
     }
 };
 
