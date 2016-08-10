@@ -8,5 +8,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Webpack-React-Karma node_modules" level="project" />
+    <orderEntry type="library" name="expect-DefinitelyTyped" level="project" />
+    <orderEntry type="library" name="jasmine-DefinitelyTyped" level="project" />
   </component>
 </module>
